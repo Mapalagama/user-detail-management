@@ -45,19 +45,19 @@ This User management project uses,
 ## Screenshots of Sysytem 
 
 ### Sign Up 
-[Sign Up](images/signup.JPG)
+![Sign Up](images/signup.JPG)
 
 ### Sign In
-[signin](images/signin.JPG)
+![signin](images/signin.JPG)
 
 ### Profile
-[prifile](images/profile.JPG)
+![prifile](images/profile.JPG)
 
 ### Admin
-[admin](images/admin.JPG)
+![admin](images/admin.JPG)
 
 ### Detail
-[detail](images/detail.JPG)
+![detail](images/detail.JPG)
 
 
 
